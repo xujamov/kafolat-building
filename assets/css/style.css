@@ -1057,33 +1057,9 @@ figure p {
     padding: 50px 0;
     background: #fafafa;
 }
-.page-in.about-us {
-    background: url(../images/about-us.jpg) no-repeat 50% 60%;
-    padding:100px 0;
-    color:#fff;
-}
-.page-in.services {
-    background: url(../images/services-pict.jpg) no-repeat 50% 45%;
-    padding:100px 0;
-    color:#fff;
-}
-.page-in.shop {
-    background: url(../images/food.jpg) no-repeat 50% 35%;
-    padding:100px 0;
-    color:#fff;
-}
+
 .page-in.contacts {
     background: url(../images/contacts.jpg) no-repeat 50% 50%;
-    padding:100px 0;
-    color:#fff;
-}
-.page-in.faq {
-    background: url(../images/faq.jpg) no-repeat 50% 30%;
-    padding:100px 0;
-    color:#fff;
-}
-.page-in.pricing {
-    background: url(../images/faq.jpg) no-repeat 50% 30%;
     padding:100px 0;
     color:#fff;
 }
